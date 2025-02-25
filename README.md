@@ -1,4 +1,4 @@
-﻿# apigateway
+﻿# api gateway with nginx
 ![image](https://github.com/user-attachments/assets/e137f947-229a-4b18-89f4-c1259372aff8)
 
 ### 1️⃣ Try on your device.
@@ -6,6 +6,7 @@
 ### 2️⃣ Run the Services
 
 ```sh
+cd docker
 docker-compose up --build -d
 ```
 
